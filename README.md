@@ -1,1 +1,1 @@
-Pattern for app with testing in ozon route 256 file test format
+Pattern for app with testing for ozon route 256 file test format
